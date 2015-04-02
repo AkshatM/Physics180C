@@ -1,0 +1,448 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.5.26)  18 FEB 2015 18:39
+entering extended mode
+**Akshat*Mahajan*-*Physics*180C*Lab*Report*2.tex
+
+("C:\Users\Akshat Mahajan\Desktop\Physics 180C\Charge-Density Wave\Paper\Akshat
+ Mahajan - Physics 180C Lab Report 2.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\revtex4\revtex4.cls"
+Document Class: revtex4 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for do
+cumentation)
+ Copyright (c) 2001 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <ogawa@teleport.com>
+ Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
+ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
+Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
+ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
+\c@linecount=\count81
+\output=\toks14
+\@protection@box=\box27
+\@topmark@saved=\toks15
+\footins@saved=\box28
+\pagesofar=\box29
+\footbox=\box30
+\pagegrid@col=\count82
+Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
+ly upper/lower case changing (DPC)]. on input line 3682.
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@affil=\count83
+\absbox=\box31
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@figure=\count90
+\c@table=\count91
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+\widetext@top=\box32
+\widetext@bot=\box33
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\revtex4\revsymb.sty"
+Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\revtex4\aps.rtx"
+File: aps.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentatio
+n)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\revtex4\10pt.rtx"
+File: 10pt.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentati
+on)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\dcolumn.sty"
+Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen104
+\extrarowheight=\dimen105
+\NC@list=\toks17
+\extratabsurround=\skip45
+\backup@length=\skip46
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Info: Redefining \frak on input line 111.
+LaTeX Info: Redefining \Bbb on input line 113.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty"
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+\XKV@depth=\count94
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty"
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box34
+)
+\tc@llx=\dimen106
+\tc@lly=\dimen107
+\tc@urx=\dimen108
+\tc@ury=\dimen109
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def"
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen110
+\adjbox@Height=\dimen111
+\adjbox@Depth=\dimen112
+\adjbox@Totalheight=\dimen113
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty"
+Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
+\c@checkoddpage=\count95
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box35
+\sift@deathcycles=\count96
+\@vwid@loff=\dimen114
+\@vwid@roff=\dimen115
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen116
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\bigdelim.sty")
+("C:\Users\Akshat Mahajan\Desktop\Physics 180C\Charge-Density Wave\Paper\Akshat
+ Mahajan - Physics 180C Lab Report 2.aux"
+
+LaTeX Warning: Label `tab:table3' multiply defined.
+
+
+LaTeX Warning: Label `tab:table3' multiply defined.
+
+
+LaTeX Warning: Label `tab:table3' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+Class revtex4 Info: Patching array package. on input line 45.
+Class revtex4 Info: cite was not loaded (OK!) on input line 45.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 45.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen117
+\scratchbox=\box36
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen118
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks22
+)
+("C:\Users\Akshat Mahajan\Desktop\Physics 180C\Charge-Density Wave\Paper\author
+_list.tex")
+LaTeX Font Info:    Try loading font information for U+msa on input line 51.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 51.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{C:/Users/Akshat Mahajan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+]
+<../Analysis/ResistivitiesVersusTemperature.png, id=23, 1028.34187pt x 490.8337
+6pt>
+File: ../Analysis/ResistivitiesVersusTemperature.png Graphic file (type png)
+ <use ../Analysis/ResistivitiesVersusTemperature.png>
+Package pdftex.def Info: ../Analysis/ResistivitiesVersusTemperature.png used on
+ input line 81.
+(pdftex.def)             Requested size: 514.16968pt x 245.41628pt.
+
+Overfull \hbox (4.16968pt too wide) in paragraph at lines 81--82
+ [][] 
+ []
+
+<../Analysis/DCCurrentVersusVoltage.png, id=24, 1028.34187pt x 490.83376pt>
+File: ../Analysis/DCCurrentVersusVoltage.png Graphic file (type png)
+
+<use ../Analysis/DCCurrentVersusVoltage.png>
+Package pdftex.def Info: ../Analysis/DCCurrentVersusVoltage.png used on input l
+ine 87.
+(pdftex.def)             Requested size: 514.16968pt x 245.41628pt.
+
+Overfull \hbox (4.16968pt too wide) in paragraph at lines 87--88
+ [][] 
+ []
+
+[2 <C:/Users/Akshat Mahajan/Desktop/Physics 180C/Charge-Density Wave/Analysis/R
+esistivitiesVersusTemperature.png (PNG copy)> <C:/Users/Akshat Mahajan/Desktop/
+Physics 180C/Charge-Density Wave/Analysis/DCCurrentVersusVoltage.png (PNG copy)
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]|\OT1/cmr/m/n/9 Run
+ []
+
+
+Overfull \hbox (9.27536pt too wide) in paragraph at lines 102--102
+[]|\OT1/cmr/m/n/9 Temperature
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]|\OT1/cmr/m/n/9 Averaged
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+[]|\OT1/cmr/m/n/9 Standard
+ []
+
+
+Overfull \vbox (1.2005pt too high) detected at line 104
+ []
+
+
+Overfull \vbox (0.60023pt too high) detected at line 108
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]|\OT1/cmr/m/n/9 Temperature
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]|\OT1/cmr/m/n/9 Threshold
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]|\OT1/cmr/m/n/9 Sample
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+[]|\OT1/cmr/m/n/9 Threshold
+ []
+
+
+<../Analysis/../Analysis/ACCurrentVersusVoltage.png, id=28, 1028.34187pt x 490.
+83376pt>
+File: ../Analysis/../Analysis/ACCurrentVersusVoltage.png Graphic file (type png
+)
+ <use ../Analysis/../Analysis/ACCurrentVersusVoltage.png>
+Package pdftex.def Info: ../Analysis/../Analysis/ACCurrentVersusVoltage.png use
+d on input line 132.
+(pdftex.def)             Requested size: 514.16968pt x 245.41628pt.
+
+Overfull \hbox (4.16968pt too wide) in paragraph at lines 132--133
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+[]|\OT1/cmr/m/n/9 Temperature
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+[]|\OT1/cmr/m/n/9 Threshold
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+[]|\OT1/cmr/m/n/9 Sample
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+[]|\OT1/cmr/m/n/9 Threshold
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3 <C:/Users/Akshat Mahajan/Desktop/Physics 180C/Charge-Density Wave/Analysis/A
+CCurrentVersusVoltage.png (PNG copy)>]
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 153.
+
+[4]
+<../Analysis/../Analysis/DCResistanceVersusVoltage.png, id=36, 1028.34187pt x 4
+90.83376pt>
+File: ../Analysis/../Analysis/DCResistanceVersusVoltage.png Graphic file (type 
+png)
+ <use ../Analysis/../Analysis/DCResistanceVersusVoltage.png>
+Package pdftex.def Info: ../Analysis/../Analysis/DCResistanceVersusVoltage.png 
+used on input line 222.
+(pdftex.def)             Requested size: 514.16968pt x 245.41628pt.
+
+Overfull \hbox (4.16968pt too wide) in paragraph at lines 222--223
+ [][] 
+ []
+
+[5 <C:/Users/Akshat Mahajan/Desktop/Physics 180C/Charge-Density Wave/Analysis/D
+CResistanceVersusVoltage.png (PNG copy)>]
+<../Analysis/../Analysis/ReconstructedCurrent.png, id=42, 1028.34187pt x 490.83
+376pt>
+File: ../Analysis/../Analysis/ReconstructedCurrent.png Graphic file (type png)
+ <use ../Analysis/../Analysis/ReconstructedCurrent.png>
+Package pdftex.def Info: ../Analysis/../Analysis/ReconstructedCurrent.png used 
+on input line 239.
+(pdftex.def)             Requested size: 514.16968pt x 245.41628pt.
+
+Overfull \hbox (4.16968pt too wide) in paragraph at lines 239--240
+ [][] 
+ []
+
+Missing character: There is no â in font cmr9!
+Missing character: There is no € in font cmr9!
+Missing character: There is no “ in font cmr9!
+
+Underfull \hbox (badness 5302) in paragraph at lines 252--253
+ \OT1/cmr/m/n/9 B 16, 3443  Pub-lished 15 Oc-to-ber 1977. DOI:
+ []
+
+[6 <C:/Users/Akshat Mahajan/Desktop/Physics 180C/Charge-Density Wave/Analysis/R
+econstructedCurrent.png (PNG copy)>]
+("C:\Users\Akshat Mahajan\Desktop\Physics 180C\Charge-Density Wave\Paper\Akshat
+ Mahajan - Physics 180C Lab Report 2.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3941 strings out of 493921
+ 53290 string characters out of 3147255
+ 138602 words of memory out of 3000000
+ 7155 multiletter control sequences out of 15000+200000
+ 19369 words of font info for 71 fonts, out of 3000000 for 9000
+ 844 hyphenation exceptions out of 8191
+ 29i,13n,34p,1342b,345s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+mi9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on "Akshat Mahajan - Physics 180C Lab Report 2.pdf" (6 pages, 31
+6397 bytes).
+PDF statistics:
+ 110 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+

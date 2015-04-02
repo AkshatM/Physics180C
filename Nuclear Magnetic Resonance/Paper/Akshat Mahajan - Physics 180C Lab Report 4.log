@@ -1,0 +1,397 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.5.26)  18 MAR 2015 19:05
+entering extended mode
+**Akshat*Mahajan*-*Physics*180C*Lab*Report*4.tex
+
+("C:\Users\Akshat Mahajan\Desktop\Physics 180C\Nuclear Magnetic Resonance\Paper
+\Akshat Mahajan - Physics 180C Lab Report 4.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\revtex4\revtex4.cls"
+Document Class: revtex4 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for do
+cumentation)
+ Copyright (c) 2001 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <ogawa@teleport.com>
+ Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
+ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
+Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
+ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
+\c@linecount=\count81
+\output=\toks14
+\@protection@box=\box27
+\@topmark@saved=\toks15
+\footins@saved=\box28
+\pagesofar=\box29
+\footbox=\box30
+\pagegrid@col=\count82
+Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
+ly upper/lower case changing (DPC)]. on input line 3682.
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@affil=\count83
+\absbox=\box31
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@figure=\count90
+\c@table=\count91
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+\widetext@top=\box32
+\widetext@bot=\box33
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\revtex4\revsymb.sty"
+Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\revtex4\aps.rtx"
+File: aps.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentatio
+n)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\revtex4\10pt.rtx"
+File: 10pt.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentati
+on)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\dcolumn.sty"
+Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen104
+\extrarowheight=\dimen105
+\NC@list=\toks17
+\extratabsurround=\skip45
+\backup@length=\skip46
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Info: Redefining \frak on input line 111.
+LaTeX Info: Redefining \Bbb on input line 113.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty"
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+\XKV@depth=\count94
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty"
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box34
+)
+\tc@llx=\dimen106
+\tc@lly=\dimen107
+\tc@urx=\dimen108
+\tc@ury=\dimen109
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def"
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen110
+\adjbox@Height=\dimen111
+\adjbox@Depth=\dimen112
+\adjbox@Totalheight=\dimen113
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty"
+Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
+\c@checkoddpage=\count95
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box35
+\sift@deathcycles=\count96
+\@vwid@loff=\dimen114
+\@vwid@roff=\dimen115
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen116
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\bigdelim.sty")
+("C:\Users\Akshat Mahajan\Desktop\Physics 180C\Nuclear Magnetic Resonance\Paper
+\Akshat Mahajan - Physics 180C Lab Report 4.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+Class revtex4 Info: Patching array package. on input line 45.
+Class revtex4 Info: cite was not loaded (OK!) on input line 45.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 45.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen117
+\scratchbox=\box36
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen118
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks22
+)
+("C:\Users\Akshat Mahajan\Desktop\Physics 180C\Nuclear Magnetic Resonance\Paper
+\author_list.tex")
+LaTeX Font Info:    Try loading font information for U+msa on input line 51.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 51.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<instrument.PNG, id=1, 214.55156pt x 154.32657pt>
+File: instrument.PNG Graphic file (type png)
+ <use instrument.PNG>
+Package pdftex.def Info: instrument.PNG used on input line 82.
+(pdftex.def)             Requested size: 128.73192pt x 92.59663pt.
+
+<schematic.PNG, id=3, 402.75468pt x 197.23688pt>
+File: schematic.PNG Graphic file (type png)
+ <use schematic.PNG>
+Package pdftex.def Info: schematic.PNG used on input line 88.
+(pdftex.def)             Requested size: 241.65466pt x 118.34302pt.
+ [1{C:/Users/Akshat Mahajan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+
+
+LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
+ on input line 93.
+
+[2 <C:/Users/Akshat Mahajan/Desktop/Physics 180C/Nuclear Magnetic Resonance/Pap
+er/instrument.PNG> <C:/Users/Akshat Mahajan/Desktop/Physics 180C/Nuclear Magnet
+ic Resonance/Paper/schematic.PNG>]
+<../Analysis/calibration_channel_1.png, id=32, 421.575pt x 316.18124pt>
+File: ../Analysis/calibration_channel_1.png Graphic file (type png)
+
+<use ../Analysis/calibration_channel_1.png>
+Package pdftex.def Info: ../Analysis/calibration_channel_1.png used on input li
+ne 111.
+(pdftex.def)             Requested size: 255.0pt x 191.25406pt.
+
+<../Analysis/calibration_channel_2.png, id=33, 421.575pt x 316.18124pt>
+File: ../Analysis/calibration_channel_2.png Graphic file (type png)
+
+<use ../Analysis/calibration_channel_2.png>
+Package pdftex.def Info: ../Analysis/calibration_channel_2.png used on input li
+ne 112.
+(pdftex.def)             Requested size: 255.0pt x 191.25406pt.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 111--113
+ [][] 
+ []
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 111--113
+ [] 
+ []
+
+<../Analysis/T1.png, id=34, 421.575pt x 316.18124pt>
+File: ../Analysis/T1.png Graphic file (type png)
+ <use ../Analysis/T1.png>
+Package pdftex.def Info: ../Analysis/T1.png used on input line 118.
+(pdftex.def)             Requested size: 255.0pt x 191.25406pt.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 118--119
+ [][] 
+ []
+
+<../Analysis/T2.png, id=35, 421.575pt x 316.18124pt>
+File: ../Analysis/T2.png Graphic file (type png)
+ <use ../Analysis/T2.png>
+Package pdftex.def Info: ../Analysis/T2.png used on input line 124.
+(pdftex.def)             Requested size: 255.0pt x 191.25406pt.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 124--125
+ [][] 
+ []
+
+[3 <C:/Users/Akshat Mahajan/Desktop/Physics 180C/Nuclear Magnetic Resonance/Ana
+lysis/calibration_channel_1.png> <C:/Users/Akshat Mahajan/Desktop/Physics 180C/
+Nuclear Magnetic Resonance/Analysis/calibration_channel_2.png> <C:/Users/Akshat
+ Mahajan/Desktop/Physics 180C/Nuclear Magnetic Resonance/Analysis/T1.png (PNG c
+opy)> <C:/Users/Akshat Mahajan/Desktop/Physics 180C/Nuclear Magnetic Resonance/
+Analysis/T2.png (PNG copy)>]
+<../Analysis/impurity.png, id=42, 1028.34187pt x 490.83376pt>
+File: ../Analysis/impurity.png Graphic file (type png)
+
+<use ../Analysis/impurity.png>
+Package pdftex.def Info: ../Analysis/impurity.png used on input line 138.
+(pdftex.def)             Requested size: 510.0pt x 243.43155pt.
+ [4 <C:/Users/Akshat Mahajan/Desktop/Physics 180C/Nuclear Magnetic Resonance/An
+alysis/impurity.png (PNG copy)>]
+<../Analysis/T1analysis.png, id=47, 421.575pt x 316.18124pt>
+File: ../Analysis/T1analysis.png Graphic file (type png)
+
+<use ../Analysis/T1analysis.png>
+Package pdftex.def Info: ../Analysis/T1analysis.png used on input line 172.
+(pdftex.def)             Requested size: 255.0pt x 191.25406pt.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 172--173
+ [][] 
+ []
+
+[5 <C:/Users/Akshat Mahajan/Desktop/Physics 180C/Nuclear Magnetic Resonance/Ana
+lysis/T1analysis.png (PNG copy)>]
+<../Analysis/T1impurity.png, id=52, 421.575pt x 316.18124pt>
+File: ../Analysis/T1impurity.png Graphic file (type png)
+
+<use ../Analysis/T1impurity.png>
+Package pdftex.def Info: ../Analysis/T1impurity.png used on input line 186.
+(pdftex.def)             Requested size: 255.0pt x 191.25406pt.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 186--187
+ [][] 
+ []
+
+<../Analysis/T1impurity2.png, id=53, 421.575pt x 316.18124pt>
+File: ../Analysis/T1impurity2.png Graphic file (type png)
+
+<use ../Analysis/T1impurity2.png>
+Package pdftex.def Info: ../Analysis/T1impurity2.png used on input line 192.
+(pdftex.def)             Requested size: 255.0pt x 191.25406pt.
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 192--193
+ [][] 
+ []
+
+[6 <C:/Users/Akshat Mahajan/Desktop/Physics 180C/Nuclear Magnetic Resonance/Ana
+lysis/T1impurity.png (PNG copy)> <C:/Users/Akshat Mahajan/Desktop/Physics 180C/
+Nuclear Magnetic Resonance/Analysis/T1impurity2.png (PNG copy)>] [7]
+("C:\Users\Akshat Mahajan\Desktop\Physics 180C\Nuclear Magnetic Resonance\Paper
+\Akshat Mahajan - Physics 180C Lab Report 4.aux") ) 
+Here is how much of TeX's memory you used:
+ 3939 strings out of 493921
+ 53175 string characters out of 3147255
+ 123519 words of memory out of 3000000
+ 7156 multiletter control sequences out of 15000+200000
+ 15210 words of font info for 56 fonts, out of 3000000 for 9000
+ 844 hyphenation exceptions out of 8191
+ 29i,10n,34p,1246b,307s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl10.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmti7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmtt10.pfb>
+Output written on "Akshat Mahajan - Physics 180C Lab Report 4.pdf" (7 pages, 35
+4881 bytes).
+PDF statistics:
+ 129 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
